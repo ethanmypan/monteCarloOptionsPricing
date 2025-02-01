@@ -63,3 +63,21 @@ double volatility        = 0.3052; // Volatility
 double timeToMaturity    = 0.063;  // Time to maturity (years)
 long simulationCount     = 10000000; // Number of Monte Carlo simulations
 
+
+
+Sources
+
+https://www.youtube.com/watch?v=7ESK5SaP-bc
+
+https://www.youtube.com/watch?v=l9ta2nLXoao
+
+https://www.youtube.com/watch?v=pR32aii3shk&t=1557s
+
+https://www.youtube.com/watch?v=1eD8M3fYwoA
+
+https://www.youtube.com/watch?v=w_BjFmbwbYA&t=35s
+
+Wikipedia: Monte Carlo Method
+
+Investopedia: Option Pricing Models
+
