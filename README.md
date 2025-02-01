@@ -101,19 +101,19 @@ g++ Compiler (for Linux/macOS)
 
 pthread library (for multi-threading support)
 
-Future Enhancements
 
-Implement Antithetic Variates for variance reduction
+Sources
 
-Add American option pricing support
+https://www.youtube.com/watch?v=7ESK5SaP-bc
 
-Introduce GPU acceleration for further speed improvements
+https://www.youtube.com/watch?v=l9ta2nLXoao
 
-Author
+https://www.youtube.com/watch?v=pR32aii3shk&t=1557s
 
-Ethan Pan
+https://www.youtube.com/watch?v=1eD8M3fYwoA
 
-License
+https://www.youtube.com/watch?v=w_BjFmbwbYA&t=35s
 
-This project is licensed under the MIT License.
+Wikipedia: Monte Carlo Method
 
+Investopedia: Option Pricing Models
